@@ -1,13 +1,11 @@
-# Hello there I am Ahmed Samir 👋
+# Hello there, I am Ahmed Samir! 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
+![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## My tech stack
 
-<p align="left"> 
 <p align="left"> 
   <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
@@ -45,21 +43,15 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
 </p>
-
-   
-
-
-</p>
  
 
 ## Connect with me:
 
-  <a href="https://www.linkedin.com/in/ahmed-samir-4a612826a/)" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viral Bhadeshiya" height="30" width="40" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-samir-4a612826a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/a7medsamer1999/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Facebook Profile" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
- 
 </p>
-
