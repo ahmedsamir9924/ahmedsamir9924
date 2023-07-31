@@ -54,10 +54,10 @@
 
 ## Connect with me:
 
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-samir-4a612826a/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viral Bhadeshiya" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
+  <a href="https://www.facebook.com/a7medsamer1999/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Facebook Profile" height="30" width="40" />
   </a>
  
